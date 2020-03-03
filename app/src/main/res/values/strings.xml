@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BoxVolume</string>
+    <string name="result">Result: </string>
+    <string name="empty_state">Please fill the form</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="must_not_empty">must not empty</string>
+    <string name="lenght">Lenght</string>
+    <string name="v_w_h_l">V = w * h * l =</string>
+    <string name="volume">Volume</string>
+</resources>
